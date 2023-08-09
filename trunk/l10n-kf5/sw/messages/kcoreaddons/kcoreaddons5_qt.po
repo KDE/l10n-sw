@@ -171,8 +171,8 @@ msgctxt "KAboutData|replace this with information about your translation team"
 msgid ""
 "<p>KDE is translated into many languages thanks to the work of the "
 "translation teams all over the world.</p><p>For more information on KDE "
-"internationalization visit <a "
-"href=\"https://l10n.kde.org\">https://l10n.kde.org</a></p>"
+"internationalization visit <a href=\"https://l10n.kde.org\">https://l10n.kde."
+"org</a></p>"
 msgstr ""
 "<p>KDE inatafsiriwa katika lugha nyingi kutokana na kazi ya timu za tafsiri "
 "duniani kote.</p><p> Kwa maelezo zaidi kuhusu ufanyaji kazi wa kimataifa wa "
@@ -200,8 +200,7 @@ msgstr "jina la faili"
 
 #: lib/kaboutdata.cpp:1239
 msgctxt "KAboutData CLI|"
-msgid ""
-"This application was written by somebody who wants to remain anonymous."
+msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Program hili liliandikwa na mtu ambaye anataka kubaki bila jina."
 
 #: lib/kaboutdata.cpp:1241
@@ -727,17 +726,11 @@ msgid "%n second(s)"
 msgid_plural "%n second(s)"
 msgstr[0] ""
 
-#. @item:intext days and hours. This uses the previous item:intext messages.
-#. If this does not fit the grammar of your language please contact the i18n
-#. team to solve the problem
+#. @item:intext days and hours. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
-#. @item:intext hours and minutes. This uses the previous item:intext
-#. messages. If this does not fit the grammar of your language please contact
-#. the i18n team to solve the problem
+#. @item:intext hours and minutes. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
-#. @item:intext minutes and seconds. This uses the previous item:intext
-#. messages. If this does not fit the grammar of your language please contact
-#. the i18n team to solve the problem
+#. @item:intext minutes and seconds. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #: lib/util/kformatprivate.cpp:455 lib/util/kformatprivate.cpp:461
 #: lib/util/kformatprivate.cpp:467
 #, qt-format
@@ -747,8 +740,8 @@ msgstr "%1 na %2"
 
 #: lib/util/kformatprivate.cpp:478
 msgctxt ""
-"KFormat|used when a relative date string can't be generated because the date"
-" is invalid"
+"KFormat|used when a relative date string can't be generated because the date "
+"is invalid"
 msgid "Invalid date"
 msgstr "Tarehe batili"
 
@@ -791,10 +784,7 @@ msgid_plural "%n minute(s) ago"
 msgstr[0] "Dakika %n zilizopita"
 msgstr[1] "Dakika %n zilizopita"
 
-#. relative datetime with %1 result of QLocale.toString(date, format) or
-#. formatRelativeDate and %2 result of QLocale.toString(time, timeformatType)
-#. If this does not fit the grammar of your language please contact the i18n
-#. team to solve the problem
+#. relative datetime with %1 result of QLocale.toString(date, format) or formatRelativeDate and %2 result of QLocale.toString(time, timeformatType) If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #: lib/util/kformatprivate.cpp:531
 #, qt-format
 msgctxt "KFormat|"
