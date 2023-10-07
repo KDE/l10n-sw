@@ -2734,9 +2734,9 @@ msgid ""
 "2⁷=128."
 msgstr ""
 "Kila biti huongeza thamani inayoendelea, inayolingana na nguvu za 2, "
-"ikipanda kutoka kulia kwenda kushoto: biti 1 → 2⁰=1 , biti 2 → 2¹=2 , "
-"biti 3 → 2²=4 , biti 4 → 2³=8 , biti 5 → 2⁴=16 , biti 6 → "
-"2⁵=32 , biti 7 → 2⁶=64 , biti 8 → 2⁷=128."
+"ikipanda kutoka kulia kwenda kushoto: biti 1 → 2⁰=1 , biti 2 → 2¹=2 , biti 3 "
+"→ 2²=4 , biti 4 → 2³=8 , biti 5 → 2⁴=16 , biti 6 → 2⁵=32 , biti 7 → 2⁶=64 , "
+"biti 8 → 2⁷=128."
 
 #: activities/binary_bulb/binary_bulb.js:40
 msgctxt "binary_bulb|"
@@ -5629,8 +5629,7 @@ msgstr "Vincent van Gogh, Portrait of Pere Tanguy 1887-8"
 #: activities/details/resource/board/board9_0.qml:14
 msgctxt "board9_0|"
 msgid "Notre Dame de Paris cathedral on the Île de la Cité in Paris, France."
-msgstr ""
-"Notre Dame de Paris cathedral on the Île de la Cité in Paris, France."
+msgstr "Notre Dame de Paris cathedral on the Île de la Cité in Paris, France."
 
 #. Activity title
 #: activities/digital_electricity/ActivityInfo.qml:15
@@ -6987,10 +6986,10 @@ msgid ""
 "established before the period of Christopher Colombus and probably served as "
 "the religion center of Yucatan for a while."
 msgstr ""
-"Chichén Itza, ikimaanisha kwenye mdomo wa kisima cha Itza, ni Jiji la "
-"Mayan kwenye Peninsula ya Yucatan nchini Meksiko, kati ya Valladolid na "
-"Merida. Ilianzishwa kabla ya kipindi cha Christopher Colombus na labda "
-"ilitumika kama kituo cha kidini cha Yucatan kwa muda."
+"Chichén Itza, ikimaanisha kwenye mdomo wa kisima cha Itza, ni Jiji la Mayan "
+"kwenye Peninsula ya Yucatan nchini Meksiko, kati ya Valladolid na Merida. "
+"Ilianzishwa kabla ya kipindi cha Christopher Colombus na labda ilitumika "
+"kama kituo cha kidini cha Yucatan kwa muda."
 
 #: activities/explore_monuments/resource/board/board1.qml:30
 #: activities/explore_monuments/resource/board/board1.qml:33
@@ -7514,8 +7513,8 @@ msgstr ""
 "ikining'inia kwa hatari kwenye mwamba ulio juu ya korongo la Alzou. Moja ya "
 "vijiji maarufu zaidi vya Ulaya, Rocamadour inaonekana inapinga sheria za "
 "uvutano. Ngome halisi ya Imani inafupishwa vyema zaidi na msemo wa kienyeji "
-"wa zamani: “houses kwenye mto, makanisa juu ya nyumba, mawe juu ya "
-"makanisa, ngome juu ya miamba.“"
+"wa zamani: “houses kwenye mto, makanisa juu ya nyumba, mawe juu ya makanisa, "
+"ngome juu ya miamba.“"
 
 #: activities/explore_monuments/resource/board/board3.qml:95
 #: activities/explore_monuments/resource/board/board3.qml:98
@@ -7603,13 +7602,12 @@ msgid ""
 "tourist attractions in Germany."
 msgstr ""
 "Ngome ya mwisho kabisa ya hadithi, Neuschwanstein iko kwenye kilima "
-"tambarare karibu na Füssen kusini-magharibi mwa Bavaria. Ilikuwa msukumo "
-"kwa majumba ya Urembo wa Kulala katika mbuga za Disneyland. Ngome hiyo "
-"iliagizwa na Mfalme Ludwig II wa Bavaria ambaye alitangazwa kuwa "
-"mwendawazimu wakati ngome hiyo ilipokaribia kukamilika mwaka 1886 na "
-"kupatikana akiwa amekufa siku chache baadaye. Neuschwanstein ndilo jengo "
-"lililopigwa picha nyingi zaidi nchini na mojawapo ya vivutio maarufu vya "
-"watalii nchini Ujerumani."
+"tambarare karibu na Füssen kusini-magharibi mwa Bavaria. Ilikuwa msukumo kwa "
+"majumba ya Urembo wa Kulala katika mbuga za Disneyland. Ngome hiyo iliagizwa "
+"na Mfalme Ludwig II wa Bavaria ambaye alitangazwa kuwa mwendawazimu wakati "
+"ngome hiyo ilipokaribia kukamilika mwaka 1886 na kupatikana akiwa amekufa "
+"siku chache baadaye. Neuschwanstein ndilo jengo lililopigwa picha nyingi "
+"zaidi nchini na mojawapo ya vivutio maarufu vya watalii nchini Ujerumani."
 
 #: activities/explore_monuments/resource/board/board4.qml:29
 #: activities/explore_monuments/resource/board/board4.qml:32
@@ -7920,8 +7918,8 @@ msgstr ""
 "kaskazini-magharibi ya eneo la Taifa la Navajo kaskazini mwa Arizona, ambayo "
 "ilianzishwa ili kuhifadhi makao matatu yaliyohifadhiwa ya miamba ya Watu wa "
 "Ancestral Puebloan: Keet Seel (Kitsʼiil), Betatakin (Bitátʼahkin) , na "
-"Nyumba ya Maandishi (Tsʼah Biiʼ Kin). Mnara huo uko juu kwenye nyanda za "
-"juu za Shonto, unaonesha mfumo wa Korongo wa Tsegi, magharibi mwa Kayenta, "
+"Nyumba ya Maandishi (Tsʼah Biiʼ Kin). Mnara huo uko juu kwenye nyanda za juu "
+"za Shonto, unaonesha mfumo wa Korongo wa Tsegi, magharibi mwa Kayenta, "
 "Arizona. Unaonesha kituo cha wageni kilicho na jumba la makumbusho, njia "
 "mbili fupi za juu za mesa zinazojiongoza, viwanja viwili vidogo vya kambi, "
 "na eneo la mandari. Wahifadhi wa kuongoza wageni kwenye ziara za bure za "
@@ -13783,8 +13781,8 @@ msgstr ""
 "idadi kuu kama familia ndogo sana: huwa na watu wawili tu ndani yao! Wao tu "
 "na 1. Haiwezi kutosha namba nyingine yoyote ndani  bila chochote "
 "kilichosalia. 5 ni mojawapo ya namba hizi za pweke (5 × 1 = 5 tu), lakini "
-"unaweza kuona kwamba 6 ina 2 na 3 katika familia yake pia (6 × 1 = 6, 2 × "
-"3 = 6). Kwa hivyo 6 sio namba kuu."
+"unaweza kuona kwamba 6 ina 2 na 3 katika familia yake pia (6 × 1 = 6, 2 × 3 "
+"= 6). Kwa hivyo 6 sio namba kuu."
 
 #. Activity title
 #: activities/grammar_analysis/ActivityInfo.qml:18
@@ -20550,8 +20548,7 @@ msgstr "Hawa ni wafanyakazi wa bass clef kwa maelezo ya chini."
 #: activities/piano_composition/piano_composition.js:31
 msgctxt "piano_composition|"
 msgid "The black keys are sharp and flat keys. Sharp notes have a ♯ sign."
-msgstr ""
-"Funguo nyeusi ni funguo kali na gorofa. Vidokezo vikali vina ishara ♯."
+msgstr "Funguo nyeusi ni funguo kali na gorofa. Vidokezo vikali vina ishara ♯."
 
 #: activities/piano_composition/piano_composition.js:34
 msgctxt "piano_composition|"
@@ -24773,12 +24770,12 @@ msgid ""
 msgstr ""
 "Lengo la fumbo ni kuingiza alama au nambari kutoka 1 hadi 9 katika kila seli "
 "ya gridi ya taifa. Katika Sudoku rasmi gridi ya taifa ni 9×9 na inaundwa na "
-"gridi ndogo 3×3 (zinazoitwa 'maeneo'). Katika GCompris tunaanzia viwango "
-"vya chini kwa toleo rahisi zaidi kwa kutumia alama na bila maeneo. Katika "
-"hali zote gridi ya taifa inaonyeshwa na alama au nambari mbalimbali "
-"zinazotolewa katika seli fulani ('givens'). Kila safu mlalo, safu wima na "
-"eneo lazima liwe na mfano mmoja tu wa kila ishara au nambari (Chanzo &lt;"
-"https://en.wikipedia.org/wiki/Sudoku&gt;)."
+"gridi ndogo 3×3 (zinazoitwa 'maeneo'). Katika GCompris tunaanzia viwango vya "
+"chini kwa toleo rahisi zaidi kwa kutumia alama na bila maeneo. Katika hali "
+"zote gridi ya taifa inaonyeshwa na alama au nambari mbalimbali zinazotolewa "
+"katika seli fulani ('givens'). Kila safu mlalo, safu wima na eneo lazima "
+"liwe na mfano mmoja tu wa kila ishara au nambari (Chanzo &lt;https://en."
+"wikipedia.org/wiki/Sudoku&gt;)."
 
 #. Help prerequisite
 #: activities/sudoku/ActivityInfo.qml:22
@@ -25640,8 +25637,8 @@ msgid ""
 "Merge Norwegian counties Nord-Trøndelag and Sør-Trøndelag into Trøndelag in "
 "geo-country activity."
 msgstr ""
-"Unganisha kaunti za Norwegian Nord-Trøndelag na Sør-Trøndelag hadi "
-"Trendelag katika shughuli za kijiografia."
+"Unganisha kaunti za Norwegian Nord-Trøndelag na Sør-Trøndelag hadi Trendelag "
+"katika shughuli za kijiografia."
 
 #: core/ChangeLog.qml:119
 msgctxt "ChangeLog|"
