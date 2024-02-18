@@ -3281,10 +3281,9 @@ msgstr "mjusi gurugunya"
 
 #. nature / animal / jaguar
 #. https://gcompris.net/incoming/lang/words_by_section.html#jaguar
-#, fuzzy
 msgctxt "jaguar.ogg"
 msgid "jaguar"
-msgstr "Jaguar"
+msgstr "jaguar"
 
 #. nature / animal / jay
 #. https://gcompris.net/incoming/lang/words_by_section.html#jay
@@ -3312,10 +3311,9 @@ msgstr "paka"
 
 #. nature / animal / koala
 #. https://gcompris.net/incoming/lang/words_by_section.html#koala
-#, fuzzy
 msgctxt "koala.ogg"
 msgid "koala"
-msgstr "Koala"
+msgstr "koala"
 
 #. nature / animal / ladybug
 #. https://gcompris.net/incoming/lang/words_by_section.html#ladybug
@@ -3397,10 +3395,9 @@ msgstr "mole"
 
 #. nature / animal / moose
 #. https://gcompris.net/incoming/lang/words_by_section.html#moose
-#, fuzzy
 msgctxt "moose.ogg"
 msgid "moose"
-msgstr "Moose"
+msgstr "moose"
 
 #. nature / animal / mosquito
 #. https://gcompris.net/incoming/lang/words_by_section.html#mosquito
@@ -3410,10 +3407,9 @@ msgstr "mbu"
 
 #. nature / animal / mouse
 #. https://gcompris.net/incoming/lang/words_by_section.html#mouse
-#, fuzzy
 msgctxt "mouse.ogg"
 msgid "mouse"
-msgstr "songa na bofya kipanya."
+msgstr "panya"
 
 #. nature / animal / mule
 #. https://gcompris.net/incoming/lang/words_by_section.html#mule
@@ -3441,10 +3437,9 @@ msgstr "otter"
 
 #. nature / animal / owl
 #. https://gcompris.net/incoming/lang/words_by_section.html#owl
-#, fuzzy
 msgctxt "owl.ogg"
 msgid "owl"
-msgstr "Bundi"
+msgstr "bundi"
 
 #. nature / animal / ox
 #. https://gcompris.net/incoming/lang/words_by_section.html#ox
@@ -3460,10 +3455,9 @@ msgstr "chaza"
 
 #. nature / animal / panda
 #. https://gcompris.net/incoming/lang/words_by_section.html#panda
-#, fuzzy
 msgctxt "panda.ogg"
 msgid "panda"
-msgstr "Panda"
+msgstr "panda"
 
 #. nature / animal / panther
 #. https://gcompris.net/incoming/lang/words_by_section.html#panther
@@ -3581,7 +3575,6 @@ msgstr "salamander"
 
 #. nature / animal / salmon
 #. https://gcompris.net/incoming/lang/words_by_section.html#salmon
-#, fuzzy
 msgctxt "salmon.ogg"
 msgid "salmon"
 msgstr "salmoni"
