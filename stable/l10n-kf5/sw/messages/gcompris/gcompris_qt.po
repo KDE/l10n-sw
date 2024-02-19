@@ -124,6 +124,11 @@ msgctxt "Data|"
 msgid "Find numbers between -10 and 10."
 msgstr "Tafuta nambari kati ya -10 na 10."
 
+#: activities/adjacent_numbers/resource/5/Data.qml:53
+msgctxt "Data|"
+msgid "Find the missing numbers"
+msgstr "Tafuta nambari ambazo hazipo"
+
 #. Activity title
 #: activities/advanced_colors/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
@@ -2887,9 +2892,9 @@ msgid ""
 "2⁷=128."
 msgstr ""
 "Kila biti huongeza thamani inayoendelea, inayolingana na nguvu za 2, "
-"ikipanda kutoka kulia kwenda kushoto: bit 1 → 2⁰=1 , bit 2 → 2¹=2 , "
-"bit 3 → 2²=4 , bit 4 → 2³=8 , kidogo 5 → 2⁴=16 , kidogo 6 → "
-"2⁵=32 , kidogo 7 → 2⁶=64 , kidogo 8 → 2⁷= 128."
+"ikipanda kutoka kulia kwenda kushoto: bit 1 → 2⁰=1 , bit 2 → 2¹=2 , bit 3 → "
+"2²=4 , bit 4 → 2³=8 , kidogo 5 → 2⁴=16 , kidogo 6 → 2⁵=32 , kidogo 7 → "
+"2⁶=64 , kidogo 8 → 2⁷= 128."
 
 #: activities/binary_bulb/binary_bulb.js:40
 msgctxt "binary_bulb|"
@@ -5763,8 +5768,7 @@ msgstr "Vincent van Gogh, Picha ya Pere Tanguy 1887-8"
 msgctxt "board9_0|"
 msgid "Notre Dame de Paris cathedral on the Île de la Cité in Paris, France."
 msgstr ""
-"Kanisa kuu la Notre Dame de Paris kwenye Île de la Cité huko Paris, "
-"Ufaransa."
+"Kanisa kuu la Notre Dame de Paris kwenye Île de la Cité huko Paris, Ufaransa."
 
 #. Activity title
 #: activities/digital_electricity/ActivityInfo.qml:15
@@ -7711,13 +7715,12 @@ msgid ""
 "tourist attractions in Germany."
 msgstr ""
 "Ngome ya mwisho kabisa ya hadithi, Neuschwanstein iko kwenye kilima "
-"tambarare karibu na Füssen kusini-magharibi mwa Bavaria. Ilikuwa msukumo "
-"kwa majumba ya Urembo wa Kulala katika mbuga za Disneyland. Ngome hiyo "
-"iliagizwa na Mfalme Ludwig II wa Bavaria ambaye alitangazwa kuwa "
-"mwendawazimu wakati ngome hiyo ilipokaribia kukamilika mwaka 1886 na "
-"kupatikana amekufa siku chache baadaye. Neuschwanstein ndilo jengo "
-"lililopigwa picha nyingi zaidi nchini na mojawapo ya vivutio maarufu vya "
-"watalii nchini Ujerumani."
+"tambarare karibu na Füssen kusini-magharibi mwa Bavaria. Ilikuwa msukumo kwa "
+"majumba ya Urembo wa Kulala katika mbuga za Disneyland. Ngome hiyo iliagizwa "
+"na Mfalme Ludwig II wa Bavaria ambaye alitangazwa kuwa mwendawazimu wakati "
+"ngome hiyo ilipokaribia kukamilika mwaka 1886 na kupatikana amekufa siku "
+"chache baadaye. Neuschwanstein ndilo jengo lililopigwa picha nyingi zaidi "
+"nchini na mojawapo ya vivutio maarufu vya watalii nchini Ujerumani."
 
 #: activities/explore_monuments/resource/board/board4.qml:29
 #: activities/explore_monuments/resource/board/board4.qml:32
@@ -8027,8 +8030,8 @@ msgstr ""
 "kaskazini-magharibi ya eneo la Taifa la Navajo kaskazini mwa Arizona, ambayo "
 "ilianzishwa ili kuhifadhi makao matatu yaliyohifadhiwa ya miamba ya Watu wa "
 "Ancestral Puebloan: Keet Seel (Kitsʼiil), Betatakin (Bitátʼahkin) , na "
-"Nyumba ya Maandishi (Tsʼah Biiʼ Kin). Mnara huo uko juu kwenye nyanda za "
-"juu za Shonto, unaoangazia mfumo wa Korongo wa Tsegi, magharibi mwa Kayenta, "
+"Nyumba ya Maandishi (Tsʼah Biiʼ Kin). Mnara huo uko juu kwenye nyanda za juu "
+"za Shonto, unaoangazia mfumo wa Korongo wa Tsegi, magharibi mwa Kayenta, "
 "Arizona. Inaangazia kituo cha wageni kilicho na jumba la makumbusho, njia "
 "mbili fupi za juu za mesa zinazojiongoza, viwanja viwili vidogo vya kambi, "
 "na eneo la picnic. Rangers huongoza wageni kwenye ziara za bure za makao ya "
@@ -14076,8 +14079,8 @@ msgstr ""
 "kufikiria idadi kuu kama familia ndogo sana: huwa na watu wawili tu ndani "
 "yao! Wao tu na 1. Huwezi kutoshea nambari nyingine yoyote ndani yao bila "
 "chochote kilichosalia. 5 ni mojawapo ya nambari hizi za upweke (5 × 1 = 5 "
-"tu), lakini unaweza kuona kwamba 6 ina 2 na 3 katika familia yake pia (6 × "
-"1 = 6, 2 × 3 = 6). Kwa hivyo 6 sio nambari kuu."
+"tu), lakini unaweza kuona kwamba 6 ina 2 na 3 katika familia yake pia (6 × 1 "
+"= 6, 2 × 3 = 6). Kwa hivyo 6 sio nambari kuu."
 
 #. Activity title
 #: activities/graduated_line_read/ActivityInfo.qml:14
@@ -21033,8 +21036,7 @@ msgstr "Hawa ni wafanyakazi wa bass clef kwa maelezo ya chini."
 #: activities/piano_composition/piano_composition.js:30
 msgctxt "piano_composition|"
 msgid "The black keys are sharp and flat keys. Sharp notes have a ♯ sign."
-msgstr ""
-"Funguo nyeusi ni funguo kali na gorofa. Vidokezo vikali vina ishara ♯."
+msgstr "Funguo nyeusi ni funguo kali na gorofa. Vidokezo vikali vina ishara ♯."
 
 #: activities/piano_composition/piano_composition.js:33
 msgctxt "piano_composition|"
@@ -25207,12 +25209,12 @@ msgid ""
 msgstr ""
 "Lengo la fumbo ni kuingiza alama au nambari kutoka 1 hadi 9 katika kila seli "
 "ya gridi ya taifa. Katika Sudoku rasmi gridi ya taifa ni 9×9 na inaundwa na "
-"gridi ndogo 3×3 (zinazoitwa 'maeneo'). Katika GCompris tunaanzia viwango "
-"vya chini kwa toleo rahisi zaidi kwa kutumia alama na bila maeneo. Katika "
-"hali zote gridi ya taifa inaonyeshwa na alama au nambari mbalimbali "
-"zinazotolewa katika seli fulani ('givens'). Kila safu mlalo, safu wima na "
-"eneo lazima liwe na mfano mmoja tu wa kila ishara au nambari (Chanzo &lt;"
-"https://en.wikipedia.org/wiki/Sudoku&gt;)."
+"gridi ndogo 3×3 (zinazoitwa 'maeneo'). Katika GCompris tunaanzia viwango vya "
+"chini kwa toleo rahisi zaidi kwa kutumia alama na bila maeneo. Katika hali "
+"zote gridi ya taifa inaonyeshwa na alama au nambari mbalimbali zinazotolewa "
+"katika seli fulani ('givens'). Kila safu mlalo, safu wima na eneo lazima "
+"liwe na mfano mmoja tu wa kila ishara au nambari (Chanzo &lt;https://en."
+"wikipedia.org/wiki/Sudoku&gt;)."
 
 #. Help prerequisite
 #: activities/sudoku/ActivityInfo.qml:22
@@ -26086,8 +26088,8 @@ msgid ""
 "Merge Norwegian counties Nord-Trøndelag and Sør-Trøndelag into Trøndelag in "
 "geo-country activity."
 msgstr ""
-"Unganisha kaunti za Norwegian Nord-Trøndelag na Sør-Trøndelag hadi "
-"Trendelag katika shughuli za kijiografia."
+"Unganisha kaunti za Norwegian Nord-Trøndelag na Sør-Trøndelag hadi Trendelag "
+"katika shughuli za kijiografia."
 
 #: core/ChangeLog.qml:122
 msgctxt "ChangeLog|"
@@ -26852,10 +26854,6 @@ msgstr "Ruka"
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr "Anzisha"
-
-#~ msgctxt "Data|"
-#~ msgid "Find the missing numbers"
-#~ msgstr "Tafuta nambari ambazo hazipo"
 
 #~ msgctxt "board11_1|"
 #~ msgid "Verbania"
