@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-06 01:57+0000\n"
+"POT-Creation-Date: 2024-02-24 01:31+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.2\n"
-
-#. (itstool) path: component/developer_name
-#: org.kde.gcompris.appdata.xml:11
-msgid "KDE"
-msgstr "KDE"
 
 #. (itstool) path: component/name
 #: org.kde.gcompris.appdata.xml:12
@@ -165,6 +160,9 @@ msgstr "Shughuli ya \"Mwisho wa mchezo wa chess\"."
 #: org.kde.gcompris.appdata.xml:81
 msgid "\"A sliding-block puzzle game\" activity"
 msgstr "Shughuli ya \"mchezo wa mafumbo ya kuteleza\"."
+
+#~ msgid "KDE"
+#~ msgstr "KDE"
 
 #~ msgid "GCompris Educational Game"
 #~ msgstr "Mchezo wa Kielimu wa GCompris"
