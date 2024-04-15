@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-24 01:31+0000\n"
+"POT-Creation-Date: 2024-04-15 01:34+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -21,7 +21,9 @@ msgstr "GCompris"
 
 #. (itstool) path: component/summary
 #: org.kde.gcompris.appdata.xml:13
-msgid "Multi-Activity Educational game for children 2 to 10"
+#, fuzzy
+#| msgid "Multi-Activity Educational game for children 2 to 10"
+msgid "Educational game for children"
 msgstr ""
 "Mchezo wa Kielimu wa Shughuli nyingi kwa watoto wa umri wa miaka 2 hadi 10"
 
