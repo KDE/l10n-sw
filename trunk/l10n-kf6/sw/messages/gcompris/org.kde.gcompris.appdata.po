@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-04-15 01:34+0000\n"
+"POT-Creation-Date: 2024-06-19 00:36+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -15,12 +15,12 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 #. (itstool) path: component/name
-#: org.kde.gcompris.appdata.xml:12
+#: org.kde.gcompris.appdata.xml:13
 msgid "GCompris"
 msgstr "GCompris"
 
 #. (itstool) path: component/summary
-#: org.kde.gcompris.appdata.xml:13
+#: org.kde.gcompris.appdata.xml:14
 #, fuzzy
 #| msgid "Multi-Activity Educational game for children 2 to 10"
 msgid "Educational game for children"
@@ -28,7 +28,7 @@ msgstr ""
 "Mchezo wa Kielimu wa Shughuli nyingi kwa watoto wa umri wa miaka 2 hadi 10"
 
 #. (itstool) path: description/p
-#: org.kde.gcompris.appdata.xml:15
+#: org.kde.gcompris.appdata.xml:16
 msgid ""
 "GCompris is a high quality educational software suite, including a large "
 "number of activities for children aged 2 to 10."
@@ -37,14 +37,14 @@ msgstr ""
 "shughuli za watoto wenye umri wa miaka 2 hadi 10."
 
 #. (itstool) path: description/p
-#: org.kde.gcompris.appdata.xml:16
+#: org.kde.gcompris.appdata.xml:17
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
 msgstr "Baadhi ya shughuli zinahusu mchezo, lakini bado zinaelimisha."
 
 #. (itstool) path: description/p
-#: org.kde.gcompris.appdata.xml:18
+#: org.kde.gcompris.appdata.xml:19
 msgid ""
 "Below you can find a list of categories with some of the activities "
 "available in that category."
@@ -53,12 +53,12 @@ msgstr ""
 "zinazopatikana katika kategoria hiyo."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:21
+#: org.kde.gcompris.appdata.xml:22
 msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
 msgstr "ugunduzi wa kompyuta: kibodi, kipanya, ishara tofauti za panya, ..."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:22
+#: org.kde.gcompris.appdata.xml:23
 msgid ""
 "arithmetic: table memory, enumeration, mirror image, balance the scale, "
 "change giving, ..."
@@ -67,31 +67,31 @@ msgstr ""
 "kubadilisha kutoa, ..."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:24
+#: org.kde.gcompris.appdata.xml:25
 msgid "science: the canal lock, color mixing, gravity concept, ..."
 msgstr ""
 "sayansi: kufuli kwa mfereji, mchanganyiko wa rangi, dhana ya mvuto, ..."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:25
+#: org.kde.gcompris.appdata.xml:26
 msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ..."
 msgstr ""
 "michezo: kumbukumbu, unganisha 4, tic tac toe, sudoku, mnara wa hanoi, ..."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:26
+#: org.kde.gcompris.appdata.xml:27
 msgid "reading: reading practice, ..."
 msgstr "kusoma: mazoezi ya kusoma, ..."
 
 #. (itstool) path: ul/li
-#: org.kde.gcompris.appdata.xml:27
+#: org.kde.gcompris.appdata.xml:28
 msgid ""
 "other: learn to tell time, the braille system, maze, music instruments, ..."
 msgstr ""
 "nyingine: jifunze kutaja wakati, mfumo wa breli, maze, ala za muziki, ..."
 
 #. (itstool) path: description/p
-#: org.kde.gcompris.appdata.xml:30
+#: org.kde.gcompris.appdata.xml:31
 msgid ""
 "Currently GCompris offers in excess of 100 activities and more are being "
 "developed. GCompris is free software, that means that you can adapt it to "
@@ -104,62 +104,62 @@ msgstr ""
 "zaidi, kuishiriki na watoto kila mahali."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:37
+#: org.kde.gcompris.appdata.xml:38
 msgid "GCompris main menu"
 msgstr "Menyu kuu ya GCompris"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:41
+#: org.kde.gcompris.appdata.xml:42
 msgid "\"Click on an uppercase letter\" activity"
 msgstr "\"Bonyeza herufi kubwa\" shughuli"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:45
+#: org.kde.gcompris.appdata.xml:46
 msgid "\"Learning Clock\" activity"
 msgstr "Shughuli ya \"Saa ya Kujifunza\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:49
+#: org.kde.gcompris.appdata.xml:50
 msgid "\"Mixing color of paint\" activity"
 msgstr "\"Kuchanganya rangi ya rangi\" shughuli"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:53
+#: org.kde.gcompris.appdata.xml:54
 msgid "\"Colors\" activity"
 msgstr "Shughuli ya \"Rangi\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:57
+#: org.kde.gcompris.appdata.xml:58
 msgid "\"Build the same model\" activity"
 msgstr "\"Jenga muundo sawa\" shughuli"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:61
+#: org.kde.gcompris.appdata.xml:62
 msgid "\"Count the items\" activity"
 msgstr "Shughuli ya \"Hesabu vitu\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:65
+#: org.kde.gcompris.appdata.xml:66
 msgid "\"The fifteen game\" activity"
 msgstr "Shughuli ya \"mchezo kumi na tano\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:69
+#: org.kde.gcompris.appdata.xml:70
 msgid "\"Hexagon\" activity"
 msgstr "Shughuli ya \"Hexagon\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:73
+#: org.kde.gcompris.appdata.xml:74
 msgid "\"Balance the scales properly\" activity"
 msgstr "\"Sawazisha mizani ipasavyo\" shughuli"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:77
+#: org.kde.gcompris.appdata.xml:78
 msgid "\"End of chess game\" activity"
 msgstr "Shughuli ya \"Mwisho wa mchezo wa chess\"."
 
 #. (itstool) path: screenshot/caption
-#: org.kde.gcompris.appdata.xml:81
+#: org.kde.gcompris.appdata.xml:82
 msgid "\"A sliding-block puzzle game\" activity"
 msgstr "Shughuli ya \"mchezo wa mafumbo ya kuteleza\"."
 
