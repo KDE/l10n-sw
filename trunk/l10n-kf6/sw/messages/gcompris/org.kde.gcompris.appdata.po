@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-11-08 00:37+0000\n"
+"POT-Creation-Date: 2025-06-14 00:38+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -54,39 +54,55 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:25
-msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+#, fuzzy
+#| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+msgid "computer discovery: keyboard, mouse, different mouse gestures, etc."
 msgstr "ugunduzi wa kompyuta: kibodi, kipanya, ishara tofauti za panya, ..."
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:26
+#, fuzzy
+#| msgid ""
+#| "arithmetic: table memory, enumeration, mirror image, balance the scale, "
+#| "change giving, ..."
 msgid ""
 "arithmetic: table memory, enumeration, mirror image, balance the scale, "
-"change giving, ..."
+"change giving, etc."
 msgstr ""
 "hesabu: kumbukumbu ya jedwali, hesabu, picha ya kioo, kusawazisha kiwango, "
 "kubadilisha kutoa, ..."
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:28
-msgid "science: the canal lock, color mixing, gravity concept, ..."
+#, fuzzy
+#| msgid "science: the canal lock, color mixing, gravity concept, ..."
+msgid "science: the canal lock, color mixing, gravity concept, etc."
 msgstr ""
 "sayansi: kufuli kwa mfereji, mchanganyiko wa rangi, dhana ya mvuto, ..."
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:29
-msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ..."
+#, fuzzy
+#| msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ..."
+msgid "games: memory, connect 4, tic tac toe, sudoku, hanoi tower, etc."
 msgstr ""
 "michezo: kumbukumbu, unganisha 4, tic tac toe, sudoku, mnara wa hanoi, ..."
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:30
-msgid "reading: reading practice, ..."
+#, fuzzy
+#| msgid "reading: reading practice, ..."
+msgid "reading: reading practice, etc."
 msgstr "kusoma: mazoezi ya kusoma, ..."
 
 #. (itstool) path: ul/li
 #: org.kde.gcompris.appdata.xml:31
+#, fuzzy
+#| msgid ""
+#| "other: learn to tell time, the braille system, maze, music "
+#| "instruments, ..."
 msgid ""
-"other: learn to tell time, the braille system, maze, music instruments, ..."
+"other: learn to tell time, the braille system, maze, music instruments, etc."
 msgstr ""
 "nyingine: jifunze kutaja wakati, mfumo wa breli, maze, ala za muziki, ..."
 
