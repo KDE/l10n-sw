@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 11:58+0000\n"
+"POT-Creation-Date: 2026-02-12 00:50+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -30,6 +30,26 @@ msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr ""
 "Mchezo wa Kielimu wa Shughuli nyingi kwa watoto wa umri wa miaka 2 hadi 10"
+
+#: org.kde.gcompris-teachers.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "GCompris"
+msgctxt "Name"
+msgid "GCompris-teachers"
+msgstr "GCompris"
+
+#: org.kde.gcompris-teachers.desktop:5
+msgctxt "GenericName"
+msgid "GCompris teachers companion"
+msgstr ""
+
+#: org.kde.gcompris-teachers.desktop:6
+msgctxt "Comment"
+msgid ""
+"GCompris-teachers is a companion application for teachers to enhance their "
+"use of GCompris in their classroom."
+msgstr ""
 
 #~ msgctxt "Name"
 #~ msgid "GCompris Educational Game"
