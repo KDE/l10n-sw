@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-11 00:55+0000\n"
+"POT-Creation-Date: 2026-04-15 00:53+0000\n"
 "PO-Revision-Date: 2024-02-14 11:55+0300\n"
 "Last-Translator: Godlove Kyando <godlove.kyando@tie.go.tz>\n"
 "Language-Team: Swahili <kde-l10n-sw@kde.org>\n"
@@ -39,12 +39,12 @@ msgctxt "Name"
 msgid "GCompris-teachers"
 msgstr "GCompris"
 
-#: org.kde.gcompris-teachers.desktop:24
+#: org.kde.gcompris-teachers.desktop:25
 msgctxt "GenericName"
 msgid "GCompris teachers companion"
 msgstr ""
 
-#: org.kde.gcompris-teachers.desktop:44
+#: org.kde.gcompris-teachers.desktop:46
 msgctxt "Comment"
 msgid ""
 "GCompris-teachers is a companion application for teachers to enhance their "
